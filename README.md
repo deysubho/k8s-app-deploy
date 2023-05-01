@@ -1,8 +1,13 @@
 Prerequisites for deployment-
 1.Git
+
 2. Docker
+
 3.Kubeadm
+
 4.Postman
+
+
 
 Let's dive into our deployment------>
 1. Clone the repo:-
@@ -19,6 +24,7 @@ Let's dive into our deployment------>
 15. Check whether the clusters are running or not.
 
 16 . Change the inbound rules.
+
 
 Finally, just copy the public IP of the worker node and check in Postman whether it's running on not!
 !!!!!!!!!YOU DID IT!!!!!!!!!!!!!!!!!!
