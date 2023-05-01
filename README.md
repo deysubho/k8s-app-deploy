@@ -38,6 +38,8 @@ Let's dive into our deployment------>
 
 
 Finally, just copy the public IP of the worker node and check in Postman whether it's running on not!
+
+
 !!!!!!!!!YOU DID IT!!!!!!!!!!!!!!!!!!
 
 Thank you!
