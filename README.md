@@ -2,7 +2,7 @@ Prerequisites for deployment-
 
 1.Git
 
-2. Docker
+2.Docker
 
 3.Kubeadm
 
@@ -22,9 +22,9 @@ Let's dive into our deployment------>
 9. Claim persistent volume:-
 10 . Run the Mongo yml file:-
 11. Run the Mongo svc file:-
-15. Check whether the clusters are running or not.
+12. Check whether the clusters are running or not.
 
-16 . Change the inbound rules.
+13 . Change the inbound rules.
 
 
 Finally, just copy the public IP of the worker node and check in Postman whether it's running on not!
