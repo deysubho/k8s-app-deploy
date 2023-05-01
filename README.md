@@ -45,4 +45,4 @@ Finally, just copy the public IP of the worker node and check in Postman whether
 Thank you!
 
 Follow for more!
-
+#kubeweek #trainwithshubham #devops #kubernetes
